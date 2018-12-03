@@ -1,0 +1,27 @@
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mobile263.yingbatis01.mapper.UserMapper"> 
+	<!-- User使用别名，在mybatis-config配置别名typeAlias -->
+	<select id="selectUserById" resultType="User">
+		select * from tb_user where userid=#{userId}
+	</select>
+
+	<!-- 获取自增长id -->
+	<insert id="insertUser" parameterType="User" useGeneratedKeys="true" keyColumn="userid" 
+	keyProperty="userId">
+		insert into tb_user(userid,user_name,pwd,age,sex,birthday)
+		values(TB_USER_USERID_SEQUENCE.nextval,#{userName},#{pwd},#{age},#{sex},#{birthday})
+	</insert>
+	<update id="updateUser" parameterType="User">
+		update tb_user set user_name=#{userName},pwd=#{pwd},age=#{age},sex=#{sex},birthday=#{birthday} where userid=#{userId}
+	</update>
+	
+	<delete id="deleteUser">
+		delete from tb_user where userid=#{userId}
+	</delete>
+	<select id="selectAllUser" resultType="User">
+		select * from tb_user
+	</select>
+
+</mapper>

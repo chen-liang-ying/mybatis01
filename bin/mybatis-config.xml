@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<properties resource="db.properties"></properties>
+  <settings>
+  	<!-- 开启驼峰命名和数据库映射 -->
+  	<setting name="mapUnderscoreToCamelCase" value="true"/>
+  </settings>
+  <!-- 配置别名，方便子mapper简化书写 -->
+<typeAliases>
+	<typeAlias alias="User" type="com.mobile263.yingbatis01.pojo.User"/>
+</typeAliases>
+  <environments default="development">
+    <environment id="development">
+      <transactionManager type="JDBC"/>
+      <dataSource type="POOLED">
+        <property name="driver" value="${db.driverClass}"/>
+        <property name="url" value="${db.jdbcUrl}"/>
+        <property name="username" value="${db.user}"/>
+        <property name="password" value="${db.password}"/>
+      </dataSource>
+    </environment>
+  </environments>
+  <mappers>
+  <!-- 开启包名扫描mapper.xml， -->
+<!--     <mapper resource="com/mobile263/yingbatis01/mapper/UserMapper.xml"/> -->
+    <package name="com.mobile263.yingbatis01.mapper"/>
+  </mappers>
+</configuration>
+

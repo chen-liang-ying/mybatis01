@@ -1,0 +1,857 @@
+2018-11-29 16:21:52 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:21:52 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:21:52 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:21:52 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:21:52 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:18 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:22:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:18 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:22:19 PooledDataSource.java DEBUG Created connection 2056418216.
+2018-11-29 16:22:19 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:19 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 16:22:20 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 16:22:20 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 16:22:20 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:20 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:20 PooledDataSource.java DEBUG Returned connection 2056418216 to pool.
+2018-11-29 16:22:49 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:22:49 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:49 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:49 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:49 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:22:49 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:22:50 PooledDataSource.java DEBUG Created connection 2056418216.
+2018-11-29 16:22:50 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:50 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 16:22:50 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 16:22:50 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 16:22:50 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:50 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:22:50 PooledDataSource.java DEBUG Returned connection 2056418216 to pool.
+2018-11-29 16:45:07 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:45:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:08 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:45:10 PooledDataSource.java DEBUG Created connection 302085789.
+2018-11-29 16:45:10 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1201769d]
+2018-11-29 16:45:10 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 16:45:10 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 16:45:11 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 16:45:11 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1201769d]
+2018-11-29 16:45:11 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1201769d]
+2018-11-29 16:45:11 PooledDataSource.java DEBUG Returned connection 302085789 to pool.
+2018-11-29 16:45:31 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:45:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:45:31 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:45:33 PooledDataSource.java DEBUG Created connection 2056418216.
+2018-11-29 16:45:33 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:45:33 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 16:45:33 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 16:45:33 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 16:45:33 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:45:33 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:45:33 PooledDataSource.java DEBUG Returned connection 2056418216 to pool.
+2018-11-29 16:46:08 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:46:08 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:46:08 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:46:08 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:46:08 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:46:08 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:46:09 PooledDataSource.java DEBUG Created connection 2056418216.
+2018-11-29 16:46:09 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:46:09 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 16:46:09 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 16:46:09 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 16:46:09 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:46:09 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@7a9273a8]
+2018-11-29 16:46:09 PooledDataSource.java DEBUG Returned connection 2056418216 to pool.
+2018-11-29 16:55:16 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 16:55:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:55:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:55:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:55:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 16:55:16 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 16:55:17 PooledDataSource.java DEBUG Created connection 13329486.
+2018-11-29 16:55:17 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@cb644e]
+2018-11-29 17:03:31 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 17:03:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:03:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:03:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:03:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:03:31 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 17:03:32 PooledDataSource.java DEBUG Created connection 213193302.
+2018-11-29 17:03:32 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@cb51256]
+2018-11-29 17:03:32 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 17:03:32 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 17:03:32 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 17:03:32 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@cb51256]
+2018-11-29 17:03:32 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@cb51256]
+2018-11-29 17:03:32 PooledDataSource.java DEBUG Returned connection 213193302 to pool.
+2018-11-29 17:08:22 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 17:08:22 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:08:22 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:08:22 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:08:22 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:08:22 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 17:08:22 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 17:08:22 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 17:08:22 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 17:08:22 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:08:22 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 17:08:22 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 17:08:22 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 17:08:24 PooledDataSource.java DEBUG Created connection 439904756.
+2018-11-29 17:08:24 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1a3869f4]
+2018-11-29 17:08:24 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 17:08:24 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 17:08:24 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 17:08:24 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1a3869f4]
+2018-11-29 17:08:24 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1a3869f4]
+2018-11-29 17:08:24 PooledDataSource.java DEBUG Returned connection 439904756 to pool.
+2018-11-29 17:16:05 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 17:16:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:16:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:16:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:16:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:16:06 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 17:16:06 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 17:16:06 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 17:16:06 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 17:16:06 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:16:06 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 17:16:06 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 17:16:06 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 17:16:07 PooledDataSource.java DEBUG Created connection 171497379.
+2018-11-29 17:16:07 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:16:07 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 17:16:07 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 17:16:07 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 17:16:07 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:16:07 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:16:07 PooledDataSource.java DEBUG Returned connection 171497379 to pool.
+2018-11-29 17:21:47 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 17:21:47 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:21:47 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:21:47 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:21:47 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 17:21:47 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 17:21:47 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 17:21:47 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 17:21:47 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 17:21:47 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 17:21:47 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 17:21:47 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 17:21:47 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 17:21:48 PooledDataSource.java DEBUG Created connection 171497379.
+2018-11-29 17:21:48 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:21:48 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-29 17:21:48 BaseJdbcLogger.java DEBUG ==> Parameters: 5(Integer)
+2018-11-29 17:21:48 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-11-29 17:21:48 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:21:48 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@a38d7a3]
+2018-11-29 17:21:48 PooledDataSource.java DEBUG Returned connection 171497379 to pool.
+2018-11-29 18:03:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:03:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:03:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:03:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:03:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:03:50 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:03:50 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:03:50 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:03:50 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:03:50 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:03:50 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:03:50 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:03:50 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:03:51 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:03:51 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:03:51 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:03:51 BaseJdbcLogger.java DEBUG ==> Parameters: ÁõµÂ»ª(String), 123(String), 23(Integer), ÄÐ(String), 2018-11-29 18:03:50.576(Timestamp)
+2018-11-29 18:03:51 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-29 18:03:51 JdbcTransaction.java DEBUG Rolling back JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:03:51 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:03:51 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:03:51 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-29 18:04:41 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:04:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:04:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:04:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:04:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:04:41 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:04:41 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:04:41 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:04:41 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:04:41 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:04:41 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:04:41 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:04:41 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:04:42 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:04:42 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:04:42 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:04:42 BaseJdbcLogger.java DEBUG ==> Parameters: ÁõµÂ»ª(String), 123(String), 23(Integer), ÄÐ(String), 2018-11-29 18:04:41.356(Timestamp)
+2018-11-29 18:04:42 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-29 18:04:42 JdbcTransaction.java DEBUG Rolling back JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:04:42 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:04:42 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:04:42 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-29 18:05:09 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:05:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:05:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:05:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:05:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:05:09 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:05:09 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:05:09 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:05:09 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:05:09 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:05:09 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:05:09 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:05:10 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:05:11 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:05:11 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:05:11 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:05:11 BaseJdbcLogger.java DEBUG ==> Parameters: ÁõµÂ»ª(String), 123(String), 23(Integer), ÄÐ(String), 2018-11-29 18:05:10.057(Timestamp)
+2018-11-29 18:05:11 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-29 18:05:11 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:05:11 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:05:11 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:05:11 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-29 18:07:16 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:07:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:16 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:16 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:07:16 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:07:16 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:07:16 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:07:16 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:07:16 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:07:16 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:07:16 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:07:17 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:07:17 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:17 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:07:17 BaseJdbcLogger.java DEBUG ==> Parameters: ÁõµÂ»ª(String), 123(String), 23(Integer), ÄÐ(String), 2018-11-29 18:07:16.653(Timestamp)
+2018-11-29 18:07:17 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:17 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:17 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:17 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-29 18:07:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:07:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:07:50 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:07:50 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:07:50 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:07:50 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:07:50 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:07:50 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:07:50 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:07:50 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:07:51 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:07:51 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:51 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:07:51 BaseJdbcLogger.java DEBUG ==> Parameters: »ª×Ó(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-29 18:07:50.427(Timestamp)
+2018-11-29 18:07:51 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:51 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:51 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:07:51 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-29 18:10:31 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-29 18:10:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:10:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:10:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:10:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-29 18:10:31 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-29 18:10:31 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-29 18:10:31 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-29 18:10:31 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-29 18:10:31 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-29 18:10:31 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-29 18:10:31 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-29 18:10:32 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-29 18:10:33 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-29 18:10:33 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:10:33 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-29 18:10:33 BaseJdbcLogger.java DEBUG ==> Parameters: ·¢¸ö(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-29 18:10:32.076(Timestamp)
+2018-11-29 18:10:33 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-29 18:10:33 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:10:33 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:10:33 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-29 18:10:33 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:47:15 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:47:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:47:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:47:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:47:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:47:15 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:47:15 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:47:15 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:47:15 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:47:15 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:47:15 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:47:15 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:47:15 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:47:16 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:47:16 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:47:16 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,sex=?,birthday=? where user_id=? 
+2018-11-30 10:47:16 BaseJdbcLogger.java DEBUG ==> Parameters: ·¢¸ö(String), 234(String), ÄÐ(String), 2018-11-30 10:47:15.491(Timestamp), 2(Integer)
+2018-11-30 10:47:16 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:47:16 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:47:16 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:47:16 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:48:05 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:48:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:48:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:48:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:48:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:48:05 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:48:05 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:48:05 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:48:05 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:48:05 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:48:05 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:48:05 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:48:05 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:48:06 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:48:06 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:48:06 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:48:06 BaseJdbcLogger.java DEBUG ==> Parameters: ·¢¸ö(String), 234(String), ÄÐ(String), 2018-11-30 10:48:05.347(Timestamp), 2(Integer)
+2018-11-30 10:48:06 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:48:06 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:48:06 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:48:06 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:49:05 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:49:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:49:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:49:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:49:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:49:05 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:49:05 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:49:05 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:49:05 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:49:05 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:49:05 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:49:05 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:49:06 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:49:07 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:49:07 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:49:07 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:49:07 BaseJdbcLogger.java DEBUG ==> Parameters: ·¢¸ç(String), 234(String), ÄÐ(String), 2018-11-30 10:49:06.053(Timestamp), 2(Integer)
+2018-11-30 10:49:07 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:49:07 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:49:07 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:49:07 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:49:07 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:50:48 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:50:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:50:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:50:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:50:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:50:48 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:50:48 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:50:48 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:50:48 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:50:48 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:50:48 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:50:48 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:50:49 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:50:50 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:50:50 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:50:50 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,age=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:50:50 BaseJdbcLogger.java DEBUG ==> Parameters: ÖÜÈó·¢(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 10:50:49.023(Timestamp), 2(Integer)
+2018-11-30 10:50:50 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:50:50 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:50:50 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:50:50 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:50:50 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:51:00 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:51:00 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:51:00 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:51:00 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:51:00 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:51:00 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:51:00 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:51:00 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:51:00 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:51:00 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:51:00 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:51:00 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:51:01 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:51:02 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:51:02 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:51:02 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,age=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:51:02 BaseJdbcLogger.java DEBUG ==> Parameters: ÖÜÈó·¢(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 10:51:01.028(Timestamp), 2(Integer)
+2018-11-30 10:51:02 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:51:02 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:51:02 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:51:02 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:51:02 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:52:17 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:52:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:17 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:52:17 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:52:17 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:52:17 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:52:17 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:52:17 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:52:17 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:52:17 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:52:18 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:52:18 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:18 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,age=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:52:18 BaseJdbcLogger.java DEBUG ==> Parameters: ·¢¸ö(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 10:52:17.33(Timestamp), 2(Integer)
+2018-11-30 10:52:18 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:18 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:18 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:18 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:52:44 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:52:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:52:44 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:52:44 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:52:44 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:52:44 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:52:44 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:52:44 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:52:44 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:52:44 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:52:45 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:52:45 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:45 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,age=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:52:45 BaseJdbcLogger.java DEBUG ==> Parameters: ÖÜÈó·¢(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 10:52:44.819(Timestamp), 2(Integer)
+2018-11-30 10:52:46 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:52:46 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:46 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:46 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:52:46 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:54:48 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:54:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:54:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:54:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:54:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:54:48 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:54:48 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:54:48 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:54:48 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:54:48 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:54:48 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:54:48 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:54:49 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:54:49 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:54:49 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:54:50 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:54:50 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:54:50 BaseJdbcLogger.java DEBUG ==>  Preparing: update tb_user set user_name=?,pwd=?,age=?,sex=?,birthday=? where userid=? 
+2018-11-30 10:54:50 BaseJdbcLogger.java DEBUG ==> Parameters: ÖÜÈó·¢(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 10:54:49.174(Timestamp), 2(Integer)
+2018-11-30 10:54:50 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:54:50 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:54:50 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:54:50 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:54:50 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 10:59:39 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 10:59:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:59:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:59:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:59:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 10:59:40 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 10:59:40 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 10:59:40 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 10:59:40 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 10:59:40 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 10:59:40 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 10:59:40 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 10:59:40 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 10:59:41 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 10:59:41 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG ==>  Preparing: delete from tb_user where userid=? 
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG ==> Parameters: 7(Integer)
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user where userid=? 
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG ==> Parameters: 7(Integer)
+2018-11-30 10:59:41 BaseJdbcLogger.java DEBUG <==      Total: 0
+2018-11-30 10:59:41 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:59:41 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:59:41 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 10:59:41 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 11:00:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:00:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:00:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:00:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:00:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:00:50 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:00:50 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:00:50 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:00:50 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:00:50 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:00:50 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:00:50 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:00:50 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:00:51 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 11:00:51 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:00:51 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-30 11:00:51 BaseJdbcLogger.java DEBUG ==> Parameters: ¹ù¸»³Ç(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 11:00:50.573(Timestamp)
+2018-11-30 11:00:51 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 11:00:51 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:00:51 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:00:51 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:00:51 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 11:25:13 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:25:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:25:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:25:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:25:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:25:13 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:25:13 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:25:13 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:25:13 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:25:13 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:25:13 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:25:13 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:25:13 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:25:15 PooledDataSource.java DEBUG Created connection 2012846597.
+2018-11-30 11:25:15 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:25:15 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user 
+2018-11-30 11:25:15 BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-11-30 11:25:15 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:25:15 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:25:15 PooledDataSource.java DEBUG Returned connection 2012846597 to pool.
+2018-11-30 11:26:38 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:26:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:26:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:26:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:26:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:26:38 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:26:38 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:26:38 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:26:38 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:26:38 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:26:38 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:26:38 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:26:38 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:26:39 PooledDataSource.java DEBUG Created connection 2012846597.
+2018-11-30 11:26:39 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:26:39 BaseJdbcLogger.java DEBUG ==>  Preparing: select * from tb_user 
+2018-11-30 11:26:39 BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-11-30 11:26:39 BaseJdbcLogger.java DEBUG <==      Total: 4
+2018-11-30 11:26:39 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:26:39 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77f99a05]
+2018-11-30 11:26:39 PooledDataSource.java DEBUG Returned connection 2012846597 to pool.
+2018-11-30 11:35:34 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:35:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:35:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:35:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:35:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:35:34 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:35:34 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:35:34 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:35:34 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:35:34 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:35:34 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:35:34 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:35:34 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:35:35 PooledDataSource.java DEBUG Created connection 84739718.
+2018-11-30 11:35:35 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:35:35 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-30 11:35:35 BaseJdbcLogger.java DEBUG ==> Parameters: ÀèÃ÷(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 11:35:34.448(Timestamp)
+2018-11-30 11:35:35 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 11:35:35 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:35:35 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:35:35 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@50d0686]
+2018-11-30 11:35:35 PooledDataSource.java DEBUG Returned connection 84739718 to pool.
+2018-11-30 11:39:31 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:39:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:39:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:39:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:39:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:39:31 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:39:31 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:39:31 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:39:31 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:39:31 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:39:31 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:39:31 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:39:32 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:39:32 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:39:32 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:39:33 PooledDataSource.java DEBUG Created connection 511473681.
+2018-11-30 11:39:33 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:39:33 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-30 11:39:33 BaseJdbcLogger.java DEBUG ==> Parameters: ÕÅÑ§ÓÑ(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 11:39:32.116(Timestamp)
+2018-11-30 11:39:33 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 11:39:33 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:39:33 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:39:33 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:39:33 PooledDataSource.java DEBUG Returned connection 511473681 to pool.
+2018-11-30 11:43:42 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-11-30 11:43:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:43:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:43:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:43:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-11-30 11:43:42 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-11-30 11:43:42 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-11-30 11:43:42 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-11-30 11:43:42 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-11-30 11:43:42 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Listing file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.class
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Reader entry: Êþº¾   4   +com/mobile263/yingbatis01/mapper/UserMapper  java/lang/Object selectUserById ((I)Lcom/mobile263/yingbatis01/pojo/User; 
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Find JAR URL: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Not a JAR: file:/E:/eclipse_workspace/yingbatis01/bin/com/mobile263/yingbatis01/mapper/UserMapper.xml
+2018-11-30 11:43:42 DefaultVFS.java DEBUG Reader entry: <!DOCTYPE mapper
+2018-11-30 11:43:42 ResolverUtil.java DEBUG Checking to see if class com.mobile263.yingbatis01.mapper.UserMapper matches criteria [is assignable to Object]
+2018-11-30 11:43:42 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-11-30 11:43:43 PooledDataSource.java DEBUG Created connection 511473681.
+2018-11-30 11:43:43 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:43:43 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into tb_user(userid,user_name,pwd,age,sex,birthday) values(TB_USER_USERID_SEQUENCE.nextval,?,?,?,?,?) 
+2018-11-30 11:43:44 BaseJdbcLogger.java DEBUG ==> Parameters: Áº³¯Î°(String), 234(String), 23(Integer), ÄÐ(String), 2018-11-30 11:43:42.855(Timestamp)
+2018-11-30 11:43:44 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-11-30 11:43:44 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:43:44 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:43:44 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1e7c7811]
+2018-11-30 11:43:44 PooledDataSource.java DEBUG Returned connection 511473681 to pool.
